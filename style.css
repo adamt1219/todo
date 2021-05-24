@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+#remove {
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+p {
+    color: white;
+    margin: 15px;
+    padding: 10px;
+    width: 50%;
+    box-shadow: 25px 13px 14px 1px rgba(100,113,159,0.58);
+    border-radius: 15px 15px 15px 15px;
+    background: #2178CE;
+    background: -moz-linear-gradient(-45deg, #2178CE 0%, #1C6EA4 28%, #C52C4B 100%);
+    background: -webkit-linear-gradient(-45deg, #2178CE 0%, #1C6EA4 28%, #C52C4B 100%);
+    background: linear-gradient(135deg, #2178CE 0%, #1C6EA4 28%, #C52C4B 100%);
+}
+
+
+.style{
+    margin: 15px;
+    padding: 10px;
+    border: 8px outset rgba(197,47,134,0.39);
+    border-radius: 19px;
+}
